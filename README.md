@@ -2,8 +2,6 @@
 
 This is a simple Todo List application built with **React**, **Supabase**, and **Vite**. It allows users to create, read, update, and delete their own tasks, stored securely in a Supabase database.
 
-Check out my YouTube channel for more tutorials: [@pedrotechnologies](https://www.youtube.com/@pedrotechnologies)
-
 ## Features
 
 - Create a new todo item
