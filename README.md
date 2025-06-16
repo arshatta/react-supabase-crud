@@ -81,7 +81,3 @@ Visit `http://localhost:5173` in your browser to see the Todo List app in action
 3. **Update Todos**: Edit the name of a todo by clicking the "Edit" button and updating it.
 4. **Mark as Completed**: Toggle the completion status of a todo by clicking the "Complete" button.
 5. **Delete Todos**: Remove a todo by clicking the "Delete" button.
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for bug fixes or enhancements.
